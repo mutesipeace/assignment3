@@ -1,0 +1,62 @@
+body{}
+img{
+    width: 100%;
+    height: 100%;
+}
+#nav{border:1px solid blue;
+width: 90%;}
+
+#nav a:link{padding: 10px;
+display: inline-block}
+#nav a:hover{ background-color:darkgreen;
+color: white;}
+#banner{border: 1px solid blue;
+width: 90%;
+height: 200px;
+}
+
+
+
+
+#box1{border:1px solid blue;
+    width: 45%;
+    height:300px;
+background-color: yellow; 
+float: left;
+}
+
+#box2{border: 1px solid blue;
+   width: 45%;
+height: 300px;
+background-color: blue;
+float:left}
+
+#footer{
+    border: 1px solid blue;
+    width: 90%;
+    height: 50px;
+    clear: left;
+
+}
+
+#box1a{
+    height: 50%;
+    border: 1px solid black;
+
+}
+#box1b{
+    height: 50%;
+    border: 1px solid black;
+}
+.main-container
+{
+    margin: 0 auto;
+    width: 80%;
+}
+
+
+
+
+
+
+
